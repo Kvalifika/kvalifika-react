@@ -1,0 +1,23 @@
+{
+  "name": "kvalifika-react",
+  "version": "1.0.0",
+  "description": "This is library to use kvalifika sdk easily in react js using npm",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-watch src",
+    "build": "babel src --out-file build/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "@babel/preset-env": "^7.4.4",
+    "babel-watch": "^7.0.0"
+  }
+}
