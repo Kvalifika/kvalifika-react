@@ -15,7 +15,7 @@ yarn add kvalifika-react
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
+import React from 'react'
 
 import { Kvalifika } from 'kvalifika-react'
 
