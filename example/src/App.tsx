@@ -1,7 +1,6 @@
 import React from 'react'
 
 import { Kvalifika } from 'kvalifika-react'
-import 'kvalifika-react/dist/index.css'
 
 const App = () => {
   return (
