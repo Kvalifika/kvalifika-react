@@ -27,7 +27,8 @@
     "identity proofing",
     "id check",
     "passport check",
-    "verifiction as a service"
+    "verifiction as a service",
+    "verification"
   ],
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
