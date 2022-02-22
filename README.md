@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save kvalifika-react
+npm install kvalifika-react
 
 yarn add kvalifika-react
 ```
